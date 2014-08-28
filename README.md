@@ -2,7 +2,7 @@ GitHub Flavored Markdown
 ===========================
 GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
 给MD文件添加表情：[表情](./face.md)
-===========================
+---------------------------
 
 
 
